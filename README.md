@@ -10,6 +10,6 @@ Image Of Our UI Above.
 
 <div id="header" align="left",
 [![Stats](https://github-readme-stats.vercel.app/api?username=VenusTheUI&show_icons=true&count_private=true&theme=github_dark)]()
-  
+ </div> 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusTheUI&hide=css&layout=compact&theme=github_dark)]()
 </div>
