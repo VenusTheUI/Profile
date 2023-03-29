@@ -9,4 +9,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusTheUI&hide=css&layout=compact&theme=github_dark)]()
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?username=VenusTheUI&theme=dark&background=000000)](https://git.io/streak-stats)
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VenusTheUI&theme=dark&background=000000)](https://git.io/streak-stats)
