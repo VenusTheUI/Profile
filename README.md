@@ -1,4 +1,4 @@
-<div id="header" align="center">
+<div id="header" align="left">
   <img src="https://media.discordapp.net/attachments/1090424648660942999/1090432348723622038/image.png?width=577&height=391" width="500"/>
 </div>
 
