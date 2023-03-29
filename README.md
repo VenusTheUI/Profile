@@ -8,6 +8,8 @@ Image Of Our UI Above.
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
 
+<div id="header" align="left",
 [![Stats](https://github-readme-stats.vercel.app/api?username=VenusTheUI&show_icons=true&count_private=true&theme=github_dark)]()
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusTheUI&hide=css&layout=compact&theme=github_dark)]()
+</div>
