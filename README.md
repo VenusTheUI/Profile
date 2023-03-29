@@ -3,7 +3,7 @@
 </div>
 
 
-GitHub Stats, 
+### GitHub Stats, 
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=VenusTheUI&show_icons=true&count_private=true&theme=github_dark)]()
 
