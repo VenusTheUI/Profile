@@ -3,14 +3,16 @@
 </div>
 
 
-### | GitHub Stats |
-
-[![Stats](https://github-readme-stats.vercel.app/api?username=VenusTheUI&show_icons=true&count_private=true&theme=github_dark)]()
-
 ### Scripting Languages Located In This Github
 <div>
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" title="Lua" **alt="Lua" width="40" height="40"/>
 </div>
+
+
+### | GitHub Stats |
+
+[![Stats](https://github-readme-stats.vercel.app/api?username=VenusTheUI&show_icons=true&count_private=true&theme=github_dark)]()
+
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VenusTheUI&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
