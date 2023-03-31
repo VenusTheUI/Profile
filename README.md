@@ -29,6 +29,5 @@
 
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!;Join The Discord!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=15" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=15&duration=2000&pause=100&color=F7F7F7&center=true&repeat=false&width=435&lines=Join+The+Discord+For+More+Information+About+VenusTheUI;https%3A%2F%2Fdiscord.gg%2F7YmMpfe3Ka" alt="Typing SVG" /></a>
 </p>
