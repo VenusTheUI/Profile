@@ -26,7 +26,7 @@
 [![GitHub Streak](https://streak-stats.demolab.com?user=VenusTheUI&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
 <a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VenusTheUI&repo=VenusTheUI.github.io&theme=dark#gh-dark-mode-only" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VenusTheUI&repo=https://github.com/VenusTheUI/VenusTheUI&theme=dark#gh-dark-mode-only" />
 </a>
 
 <p align="center">
