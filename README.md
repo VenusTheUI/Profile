@@ -25,9 +25,6 @@
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=VenusTheUI&theme=dark&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
 
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=VenusTheUI&repo=github.com/VenusTheUI/VenusTheUI&theme=dark#gh-dark-mode-only" />
-</a>
 
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=15&duration=2000&pause=100&color=F7F7F7&center=true&repeat=false&width=435&lines=Join+The+Discord+For+More+Information+About+VenusTheUI;https%3A%2F%2Fdiscord.gg%2F7YmMpfe3Ka" alt="Typing SVG" /></a>
