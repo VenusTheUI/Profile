@@ -1,12 +1,5 @@
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!;Join The Discord!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=15" /></a>
-</p>
-
-
-<p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Images Of The Da-Hood Interface.;Preview Of The Da-Hood Script.&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=15" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=100&color=F7F7F7&repeat=false&width=435&lines=Images+Of+The+Da-Hood+Interface.;Preview+Of+The+Da-Hood+Script." alt="Typing SVG" /></a>
 </p>
 
 <div id="header" align="center">
@@ -36,3 +29,8 @@
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=VenusTheUI&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+<p align="center">
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!;Join The Discord!&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=15" /></a>
+</p>
