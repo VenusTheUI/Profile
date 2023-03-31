@@ -1,12 +1,12 @@
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!;Join The Discord!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!;Join The Discord!&font=Fira%20Code&center=true&width=440&height=45&color=fffff&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Images Of The Da-Hood Interface.;Preview Of The Da-Hood Script.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Images Of The Da-Hood Interface.;Preview Of The Da-Hood Script.&font=Fira%20Code&center=true&width=440&height=45&color=fffff&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
 <div id="header" align="center">
@@ -15,7 +15,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Coding Languages Found In This Git-Hub.;Scripting Languages Used In The Script.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=Coding Languages Found In This Git-Hub.;Scripting Languages Used In The Script.&font=Fira%20Code&center=true&width=440&height=45&color=fffff&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
 <div id="header" align="center">
@@ -25,7 +25,7 @@
 
 <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=GitHub Stats&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
+    <img src="https://readme-typing-svg.demolab.com/?lines=GitHub Stats&font=Fira%20Code&center=true&width=440&height=45&color=fffff&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
 
