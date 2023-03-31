@@ -1,7 +1,7 @@
-
+<p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
-
+</p>
 
 
 <p align="center">
@@ -9,7 +9,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Images Of The Da-Hood Interface.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
-<div id="header" align="left">
+<div id="header" align="center">
   <img src="https://media.discordapp.net/attachments/1090424648660942999/1090432348723622038/image.png?width=577&height=391" width="500"/>
 </div>
 
@@ -27,6 +27,7 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
     <img src="https://readme-typing-svg.demolab.com/?lines=GitHub Stats&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
 </p>
+
 
 [![Stats](https://github-readme-stats.vercel.app/api?username=VenusTheUI&show_icons=true&count_private=true&theme=github_dark)]()
 
