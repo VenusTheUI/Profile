@@ -1,4 +1,5 @@
 
+[![Typing SVG](https://readme-typing-svg.demolab.com/?lines=Welcome;To;Venus!;Read;Below;For;More;Information.)](https://git.io/typing-svg)
 
 ### | Image Of The Da-Hood Script Interface |
 
