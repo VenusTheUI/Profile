@@ -18,7 +18,7 @@
     <img src="https://readme-typing-svg.demolab.com/?lines=Coding Languages Found In This Git-Hub.&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&pause=1000&size=15" /></a>
 </p>
 
-<div>
+<div id="header" align="center">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-original-wordmark.svg" title="Lua" **alt="Lua" width="40" height="40"/>
 </div>
 
