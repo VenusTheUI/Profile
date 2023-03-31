@@ -1,5 +1,5 @@
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=15&duration=2000&pause=100&color=F7F7F7&center=true&repeat=false&width=435&lines=Images+Of+The+Da-Hood+Interface.;Preview+Of+The+Da-Hood+Script." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=15&duration=2000&pause=100&color=F7F7F7&center=true&repeat=false&width=435&lines=Images+Of+The+Da-Hood+Interface.;Preview+Of+The+Da-Hood+Script." alt="Typing SVG" /></a>
 </p>
 
 <div id="header" align="center">
@@ -7,8 +7,7 @@
 </div>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Coding Languages Found In This Git-Hub.;Scripting Languages Used In The Script.&font=Fira%20Code&center=true&width=440&height=45&color=ffffff&vCenter=true&pause=1000&size=15" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Exo+2&size=15&duration=2000&pause=100&color=F7F7F7&center=true&repeat=false&width=435&lines=Coding+Languages+Used+In+This+Git-Hub.;Scripting+Languages+Used+In+The+Script." alt="Typing SVG" /></a>
 </p>
 
 <div id="header" align="center">
